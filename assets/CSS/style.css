@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+#board{
+    background-image: url("/assets/images/flappybirdbg.png");
+}
